@@ -1,7 +1,7 @@
 Crashtools
 ==========
 
-Convenience scripts to symbolicate and format crash report files.
+Convenience scripts to symbolicate and format iOS crash report files.
 
 Usage
 =====
